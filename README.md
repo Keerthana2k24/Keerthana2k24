@@ -9,7 +9,7 @@
 
 ▸ Currently learning Spring Boot while strengthening my problem-solving approach and building a stronger foundation in Java-based development.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D7C6F7&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D7C6F7&height=3&section=header"/>
 
 ## ✦ What I Work With
 
@@ -45,7 +45,7 @@
 ![Truffle Suite](https://img.shields.io/badge/Truffle%20Suite-FFF3EE?style=for-the-badge&logo=trufflesuite&logoColor=5D4037)
 ![Apache Bench](https://img.shields.io/badge/Apache%20Bench-F5F5F5?style=for-the-badge&logo=apache&logoColor=D22128)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D7C6F7&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D7C6F7&height=3&section=header"/>
 
 ## ✦ Let's Collaborate
 
@@ -55,7 +55,7 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/keerthana-krishnan06/       ✉ Email: keerthanakrish067@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D7C6F7&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D7C6F7&height=3&section=header"/>
 
 ## ✦ Stats
 
