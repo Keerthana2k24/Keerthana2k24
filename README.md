@@ -1,7 +1,7 @@
 
 # Hello, I'm Keerthana.. 👋
 > ###### *Someone who strives for doing things right rather than doing more!*
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=40"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=D7C6F7&height=40&section=header"/>
 
 ## ✦ About Me
 
